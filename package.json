@@ -1,0 +1,67 @@
+{
+  "name": "acmekit-starter-plugin",
+  "version": "0.0.1",
+  "description": "A starter for Acmekit plugins.",
+  "author": "Acmekit (https://acmekit.com)",
+  "license": "MIT",
+  "files": [
+    ".acmekit/server"
+  ],
+  "exports": {
+    "./package.json": "./package.json",
+    "./workflows": "./.acmekit/server/src/workflows/index.js",
+    "./.acmekit/server/src/modules/*": "./.acmekit/server/src/modules/*/index.js",
+    "./modules/*": "./.acmekit/server/src/modules/*/index.js",
+    "./providers/*": "./.acmekit/server/src/providers/*/index.js",
+    "./*": "./.acmekit/server/src/*.js",
+    "./admin": {
+      "import": "./.acmekit/server/src/admin/index.mjs",
+      "require": "./.acmekit/server/src/admin/index.js",
+      "default": "./.acmekit/server/src/admin/index.js"
+    }
+  },
+  "keywords": [
+    "acmekit",
+    "plugin",
+    "acmekit-plugin-other",
+    "acmekit-plugin",
+    "acmekit-v2"
+  ],
+  "scripts": {
+    "build": "acmekit plugin:build",
+    "dev": "acmekit plugin:develop",
+    "prepublishOnly": "acmekit plugin:build"
+  },
+  "devDependencies": {
+    "@acmekit/acmekit": "2.13.3",
+    "@acmekit/admin-sdk": "2.13.3",
+    "@acmekit/cli": "2.13.3",
+    "@acmekit/framework": "2.13.3",
+    "@acmekit/icons": "2.13.3",
+    "@acmekit/test-utils": "2.13.3",
+    "@acmekit/ui": "4.1.2",
+    "@swc/core": "^1.7.28",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.3.2",
+    "@types/react-dom": "^18.2.25",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2",
+    "vite": "^5.2.11",
+    "yalc": "^1.0.0-pre.53"
+  },
+  "peerDependencies": {
+    "@acmekit/acmekit": "2.13.3",
+    "@acmekit/admin-sdk": "2.13.3",
+    "@acmekit/cli": "2.13.3",
+    "@acmekit/framework": "2.13.3",
+    "@acmekit/icons": "2.13.3",
+    "@acmekit/test-utils": "2.13.3",
+    "@acmekit/ui": "4.1.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
