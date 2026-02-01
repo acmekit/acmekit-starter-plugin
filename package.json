@@ -33,12 +33,12 @@
     "prepublishOnly": "acmekit plugin:build"
   },
   "devDependencies": {
-    "@acmekit/acmekit": "2.13.8",
-    "@acmekit/admin-sdk": "2.13.8",
-    "@acmekit/cli": "2.13.8",
-    "@acmekit/framework": "2.13.8",
-    "@acmekit/icons": "2.13.8",
-    "@acmekit/test-utils": "2.13.8",
+    "@acmekit/acmekit": "2.13.9",
+    "@acmekit/admin-sdk": "2.13.9",
+    "@acmekit/cli": "2.13.9",
+    "@acmekit/framework": "2.13.9",
+    "@acmekit/icons": "2.13.9",
+    "@acmekit/test-utils": "2.13.9",
     "@acmekit/ui": "4.1.2",
     "@swc/core": "^1.7.28",
     "@types/node": "^20.0.0",
@@ -53,12 +53,12 @@
     "yalc": "^1.0.0-pre.53"
   },
   "peerDependencies": {
-    "@acmekit/acmekit": "2.13.8",
-    "@acmekit/admin-sdk": "2.13.8",
-    "@acmekit/cli": "2.13.8",
-    "@acmekit/framework": "2.13.8",
-    "@acmekit/icons": "2.13.8",
-    "@acmekit/test-utils": "2.13.8",
+    "@acmekit/acmekit": "2.13.9",
+    "@acmekit/admin-sdk": "2.13.9",
+    "@acmekit/cli": "2.13.9",
+    "@acmekit/framework": "2.13.9",
+    "@acmekit/icons": "2.13.9",
+    "@acmekit/test-utils": "2.13.9",
     "@acmekit/ui": "4.1.2"
   },
   "engines": {
