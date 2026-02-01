@@ -1,8 +1,8 @@
-import { AcmekitRequest, AcmekitResponse } from "@acmekit/framework/http";
+import { AcmeKitRequest, AcmeKitResponse } from "@acmekit/framework/http";
 
 export async function GET(
-  req: AcmekitRequest,
-  res: AcmekitResponse
+  req: AcmeKitRequest,
+  res: AcmeKitResponse
 ) {
   res.sendStatus(200);
 }
