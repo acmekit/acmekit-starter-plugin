@@ -2,62 +2,62 @@
 # yarn lockfile v1
 
 
-"@acmekit/acmekit@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/acmekit/-/acmekit-2.13.6.tgz#958408866d0124050219ae874b741774a1ba3658"
-  integrity sha512-lF71N3O1IpFlFUaz5QsD1f4MaS/dK8qkdXP+cPVL6hiFMZtCSyIJRUkEOhElzXfy/p7tuxb+1G5b7gRiTG3wUA==
+"@acmekit/acmekit@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/acmekit/-/acmekit-2.13.8.tgz#1ded7e367dfcd7f2a324ecb341535728330e1ce1"
+  integrity sha512-MyEU/vkY3UrGPUgaxH0DXVU9/t9mkD7ayL9ytSFnU2H9RNPM4RpOY1K9BeANfE2aWafEJNU1vsvCOCI1yssojw==
   dependencies:
-    "@acmekit/admin-bundler" "2.13.6"
-    "@acmekit/analytics" "2.13.6"
-    "@acmekit/analytics-local" "2.13.6"
-    "@acmekit/analytics-posthog" "2.13.6"
-    "@acmekit/api-key" "2.13.6"
-    "@acmekit/auth" "2.13.6"
-    "@acmekit/auth-emailpass" "2.13.6"
-    "@acmekit/auth-github" "2.13.6"
-    "@acmekit/auth-google" "2.13.6"
-    "@acmekit/cache-inmemory" "2.13.6"
-    "@acmekit/cache-redis" "2.13.6"
-    "@acmekit/caching" "2.13.6"
-    "@acmekit/caching-redis" "2.13.6"
+    "@acmekit/admin-bundler" "2.13.8"
+    "@acmekit/analytics" "2.13.8"
+    "@acmekit/analytics-local" "2.13.8"
+    "@acmekit/analytics-posthog" "2.13.8"
+    "@acmekit/api-key" "2.13.8"
+    "@acmekit/auth" "2.13.8"
+    "@acmekit/auth-emailpass" "2.13.8"
+    "@acmekit/auth-github" "2.13.8"
+    "@acmekit/auth-google" "2.13.8"
+    "@acmekit/cache-inmemory" "2.13.8"
+    "@acmekit/cache-redis" "2.13.8"
+    "@acmekit/caching" "2.13.8"
+    "@acmekit/caching-redis" "2.13.8"
     "@acmekit/cart" "2.13.2"
-    "@acmekit/core-flows" "2.13.6"
+    "@acmekit/core-flows" "2.13.8"
     "@acmekit/currency" "2.13.2"
-    "@acmekit/customer" "2.13.6"
-    "@acmekit/event-bus-local" "2.13.6"
-    "@acmekit/event-bus-redis" "2.13.6"
-    "@acmekit/file" "2.13.6"
-    "@acmekit/file-local" "2.13.6"
-    "@acmekit/file-s3" "2.13.6"
+    "@acmekit/customer" "2.13.8"
+    "@acmekit/event-bus-local" "2.13.8"
+    "@acmekit/event-bus-redis" "2.13.8"
+    "@acmekit/file" "2.13.8"
+    "@acmekit/file-local" "2.13.8"
+    "@acmekit/file-s3" "2.13.8"
     "@acmekit/fulfillment" "2.13.2"
     "@acmekit/fulfillment-manual" "2.13.2"
-    "@acmekit/index" "2.13.6"
+    "@acmekit/index" "2.13.8"
     "@acmekit/inventory" "2.13.2"
-    "@acmekit/link-modules" "2.13.6"
-    "@acmekit/locking" "2.13.6"
-    "@acmekit/locking-postgres" "2.13.6"
-    "@acmekit/locking-redis" "2.13.6"
-    "@acmekit/notification" "2.13.6"
-    "@acmekit/notification-local" "2.13.6"
-    "@acmekit/notification-sendgrid" "2.13.6"
+    "@acmekit/link-modules" "2.13.8"
+    "@acmekit/locking" "2.13.8"
+    "@acmekit/locking-postgres" "2.13.8"
+    "@acmekit/locking-redis" "2.13.8"
+    "@acmekit/notification" "2.13.8"
+    "@acmekit/notification-local" "2.13.8"
+    "@acmekit/notification-sendgrid" "2.13.8"
     "@acmekit/order" "2.13.2"
     "@acmekit/payment" "2.13.2"
     "@acmekit/payment-stripe" "2.13.2"
     "@acmekit/pricing" "2.13.2"
     "@acmekit/product" "2.13.2"
     "@acmekit/promotion" "2.13.2"
-    "@acmekit/rbac" "2.13.6"
+    "@acmekit/rbac" "2.13.8"
     "@acmekit/region" "2.13.2"
     "@acmekit/sales-channel" "2.13.2"
-    "@acmekit/settings" "2.13.6"
+    "@acmekit/settings" "2.13.8"
     "@acmekit/stock-location" "2.13.2"
-    "@acmekit/store" "2.13.6"
+    "@acmekit/store" "2.13.8"
     "@acmekit/tax" "2.13.2"
-    "@acmekit/telemetry" "2.13.6"
-    "@acmekit/translation" "2.13.6"
-    "@acmekit/user" "2.13.6"
-    "@acmekit/workflow-engine-inmemory" "2.13.6"
-    "@acmekit/workflow-engine-redis" "2.13.6"
+    "@acmekit/telemetry" "2.13.8"
+    "@acmekit/translation" "2.13.8"
+    "@acmekit/user" "2.13.8"
+    "@acmekit/workflow-engine-inmemory" "2.13.8"
+    "@acmekit/workflow-engine-redis" "2.13.8"
     "@inquirer/checkbox" "^2.3.11"
     "@inquirer/input" "^2.2.9"
     boxen "^5.0.1"
@@ -74,14 +74,14 @@
     slugify "^1.6.6"
     uuid "^9.0.0"
 
-"@acmekit/admin-bundler@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/admin-bundler/-/admin-bundler-2.13.6.tgz#0e4ef2fd5ba8716532c0f9772165efa0a728fc24"
-  integrity sha512-K7MJEva8blbpMGViKb/07NPIOmCXCU/+jJo5mRTYf9itGfr7s4HLzA/fxOlj4zF0eIdG2aQQ69yxLEcsQeGNLg==
+"@acmekit/admin-bundler@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/admin-bundler/-/admin-bundler-2.13.8.tgz#0778a953b1d43cebdec762d3bda07de40ea5e93e"
+  integrity sha512-K5ocxV2bl2EYcgVAHuV/u/RkEI0w2e9+zMfNIC3fzXsh2jl5lK55CciO1OiG31OoYyVaqvj9fmGVtjQJw+FnWQ==
   dependencies:
-    "@acmekit/admin-shared" "2.13.6"
-    "@acmekit/admin-vite-plugin" "2.13.6"
-    "@acmekit/dashboard" "2.13.6"
+    "@acmekit/admin-shared" "2.13.8"
+    "@acmekit/admin-vite-plugin" "2.13.8"
+    "@acmekit/dashboard" "2.13.8"
     "@vitejs/plugin-react" "^4.2.1"
     autoprefixer "^10.4.19"
     compression "^1.8.0"
@@ -93,25 +93,25 @@
     tailwindcss "^3.4.3"
     vite "^5.4.21"
 
-"@acmekit/admin-sdk@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/admin-sdk/-/admin-sdk-2.13.6.tgz#aa2e6c17bc3fcdfc45c8e1ea774177e497306bdf"
-  integrity sha512-547nf9OkVm7/RAyH+buvBx6ZWpQ3qhJn9mGc0fidHlNKDeS21RruemF7NGqu/MxXk5R2B+1Fxub2/q8bOBRuwQ==
+"@acmekit/admin-sdk@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/admin-sdk/-/admin-sdk-2.13.8.tgz#8ed646c5ad22b16382b3417904ddb2656b97d7e8"
+  integrity sha512-zHe6PHyLFdVbaNTjL9fwevcRinIb7WuBrQU3GCczXAJGUzc5ZzhKP1GyzUyMAITtAvwSdyQUT7YnSr/AiVmjCg==
   dependencies:
-    "@acmekit/admin-shared" "2.13.6"
+    "@acmekit/admin-shared" "2.13.8"
     zod "3.25.76"
 
-"@acmekit/admin-shared@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/admin-shared/-/admin-shared-2.13.6.tgz#af0a98fb593b4dc1924e6f67515d4a2447c15bb7"
-  integrity sha512-uUvlW0DUXXFEjjkKFA5qzwfAJnsdtd8Z299Xda8ySrfplybXvN11ZgSvp3HZtc4G6YuEU3rdQsv2c66+kgFwSA==
+"@acmekit/admin-shared@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/admin-shared/-/admin-shared-2.13.8.tgz#32eb7c42da8d14d77cf96bc57dc857c2a9b4805f"
+  integrity sha512-mO5UIzg5Fx0Mt9KfjiIeGSyO0v8tt+qCRV6Zgkb8YdsvuhRbNOkIcfRUWtZVgKW8UJZ9dhzEHzd+sa4Nt4KIhQ==
 
-"@acmekit/admin-vite-plugin@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/admin-vite-plugin/-/admin-vite-plugin-2.13.6.tgz#9fa077bb6347e796515586ed5d3a1dd6ab2d1f02"
-  integrity sha512-ao1z2go7KQAReE6noF3NVqxMwCOhsArHGvgT7LC6j9FFOQt9mEpzVwbK4d2didfbajGbWG1i9lnbgjHXnHLiNA==
+"@acmekit/admin-vite-plugin@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/admin-vite-plugin/-/admin-vite-plugin-2.13.8.tgz#465b5cd3690cbd7a10c943f46b65c0464eeb7e2f"
+  integrity sha512-/bcCqdQetEps10N1uidZspByGbZtDj0Qs9gULn07Qy62+gaSqG3rDTOjU30na889DKAnUR0LAv37PqLFsyb7gQ==
   dependencies:
-    "@acmekit/admin-shared" "2.13.6"
+    "@acmekit/admin-shared" "2.13.8"
     "@babel/parser" "7.25.6"
     "@babel/traverse" "7.25.6"
     "@babel/types" "7.25.6"
@@ -121,74 +121,74 @@
     outdent "^0.8.0"
     picocolors "^1.1.0"
 
-"@acmekit/analytics-local@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/analytics-local/-/analytics-local-2.13.6.tgz#50d3ab8e0f990a437c85b5a3b24c5059c82367cb"
-  integrity sha512-hZlWDo0RFfL+dXmgF6qhayUAtCA4CucuWnLZ89e8HJMuPe+siadRSIMK69S3QuWFbOZG3ccAWEev6yIqCuRPDA==
+"@acmekit/analytics-local@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/analytics-local/-/analytics-local-2.13.8.tgz#f9ad1ea2d1a113f7714445bca078ef610a0e54e5"
+  integrity sha512-FKdJeafmmuKIVbEPD0uZZFwuLWmmQKW/9wP4byS5fw/FIzlSkZs6fA/cuwq6V3aIpRUF/NWlIvwhcSVWmlozaQ==
 
-"@acmekit/analytics-posthog@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/analytics-posthog/-/analytics-posthog-2.13.6.tgz#be2c8af9c31764ad1dac4fe6f4944181bbff3e0c"
-  integrity sha512-5zi9okvGhMtHckI7HwMeL8m9rKlE/Q+/BnUB6rJCBKcDTHpBYLmRB9tHUiknLuTCRlCpga0e1aOKmwuM9PiCZQ==
+"@acmekit/analytics-posthog@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/analytics-posthog/-/analytics-posthog-2.13.8.tgz#bd586d7a861a0ecf8b010855265e20dae191cdfb"
+  integrity sha512-Z5hqiDBF4OzQbSFpFMhfgfAq/QsQHns3xD02DDV4JMAmcHrhlOX4JY9xWHtsaatdymwNoC6ilwE2FkSMMA28Tw==
 
-"@acmekit/analytics@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/analytics/-/analytics-2.13.6.tgz#687747a7ea85292e4e11a86b3d6c4fcd62f61dd5"
-  integrity sha512-JVVs3/8SN/eEv/m4KRE8BhQ6Vusxb4a3/hKQOSePfocWNKXkdnEnX1MQNb5akOhsuIIBsDGmSemiNXKySBMyuA==
+"@acmekit/analytics@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/analytics/-/analytics-2.13.8.tgz#60dd1456732391b2698060523438cebc79cd67d8"
+  integrity sha512-LjCEIIs6EUQwZX3GZf91eNMj/sDwsLCJVFLK8ccWd3nvkuqi4UCvKsSF5YmDeD1mfo22N8sfiaExfRTYV3gD7A==
 
-"@acmekit/api-key@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/api-key/-/api-key-2.13.6.tgz#a9a543801dfb3f22765c15285736ccb54f1a77cd"
-  integrity sha512-2O8mlgPgq0smtJd2PpMGjiHQbX99vqJ1jMH6hx8Y1MTm1PVRrreOCd6Wr5fNj2mghvjIqW+HmVF2aaImwJpDSQ==
+"@acmekit/api-key@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/api-key/-/api-key-2.13.8.tgz#addbe39a81cf1e119b87b2b121644b9a84abe7ae"
+  integrity sha512-BC1KCe/nei4DoC1dKwrW4jXXBcX2oLgEgk7yUFdfGp6P3itmQ55AXRwZRYRD8dfMAEfRS/FUGq0xd9VtnSAMvg==
 
-"@acmekit/auth-emailpass@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/auth-emailpass/-/auth-emailpass-2.13.6.tgz#62d30cbff9f54192c4476de630e578f4a9c4efa4"
-  integrity sha512-328CPEwKn/Z0tKZLQQ/keYhITRHAUB+EaaVnEaxfKIYdZCA93XEhf7R7L2Jhr0286h/3nV/TEw7eF3fhfbkUHg==
+"@acmekit/auth-emailpass@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/auth-emailpass/-/auth-emailpass-2.13.8.tgz#272c2d767623c64735fd867783801daa308dbbbc"
+  integrity sha512-/ObxtUDm8YI6C52s+2CMb7iujvdvGCVzW4Ru1ILgJImN6xvVTjJ33xVQv7YwqZ8qFvvhWMU4fS9w+KsxgTqyiw==
   dependencies:
     scrypt-kdf "^2.0.1"
 
-"@acmekit/auth-github@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/auth-github/-/auth-github-2.13.6.tgz#7cefa6dbe90433b6531f6e83ba67517480842374"
-  integrity sha512-1A4fqMbPzkyUeycNpxdz6nkWgeMhz8hywC7AS9KF1v/k0R9uO0yLD3CUNzne66cp+0Oab2TLUdu/Ng2AK0zWzw==
+"@acmekit/auth-github@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/auth-github/-/auth-github-2.13.8.tgz#6f9a940cc647617a9e423d83081e46d90026d6af"
+  integrity sha512-J4ECasRgwVfXTx/JqpO0uFB0lfXTAznjE6X9ovPD1RK+78m82L11aKgpIJGDNWwuOn70qELR0VYB7ttqjmZFjQ==
 
-"@acmekit/auth-google@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/auth-google/-/auth-google-2.13.6.tgz#00995c168cbd31c3afdcb744640e7b83285bf603"
-  integrity sha512-VGggiB/SJYfT8cCSxLN6vmXNlWv38uiNnGvoPjDdQT93SkVXGcogaJe6cykzhMLabLOOxUNX94lpOOiLbW9oYA==
+"@acmekit/auth-google@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/auth-google/-/auth-google-2.13.8.tgz#c088fa2cb129a6828918d5200ce34a1b98c30c11"
+  integrity sha512-5KO10oOVIxQOATt1iWcs/ljPOqSpGBFclm7B+tCpSjbQ1pRg12z2tcBi4cdqGhUZmRgrgJ0cXBJ2ycYa+pdb+g==
   dependencies:
     jsonwebtoken "^9.0.2"
 
-"@acmekit/auth@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/auth/-/auth-2.13.6.tgz#77b67fd0d69ce909780ef6196af734c7be5e9134"
-  integrity sha512-vqlriPsrIkyQhtv+2ZYhmmtFpeLube+wdq0yaRnnIc7DmVff+v++JQXSmgEF4o+lRyLysDKppDawcZu1FwS+0A==
+"@acmekit/auth@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/auth/-/auth-2.13.8.tgz#ebe9b18c6fa5727263714817e7379d1220c1c19a"
+  integrity sha512-y4uQia4qvtDXIIETYC1NFkmhD59cb/cOLqGtgmb/sE0LgXvZCKmYdpual6mjFkacNSwonir8i7ZbIGoY/kJdcA==
 
-"@acmekit/cache-inmemory@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/cache-inmemory/-/cache-inmemory-2.13.6.tgz#236d7dc2beb6465fb863c493de11f0df91f4a337"
-  integrity sha512-jzZwmTEL45vttItnohT37VKMuzhA0RumJVOc1watRKmnZXoOPyyDIw0RARRRTNf13NN3KpmUFFo4Wqb+GtSUjQ==
+"@acmekit/cache-inmemory@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/cache-inmemory/-/cache-inmemory-2.13.8.tgz#984577418d71de29daeec4b77efb67fcba9eb916"
+  integrity sha512-wMTDcE6lNg6fwi7W11nVeb/ylZgyltPTz/bF5BqUZu+D7I0sZYANKBnxbTdw6JzuEU8/UNm3crnSK59L4JWUtw==
 
-"@acmekit/cache-redis@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/cache-redis/-/cache-redis-2.13.6.tgz#aa3d00b86d7b9291437e1ac7a51f76d3d6b65957"
-  integrity sha512-3gpk6bRchTvhyi4L0ymIwsziE+JPW6sZQAOZdWoi11eu7UyVb5JzBBuKHhi7apHfAemIDn5xFleBSFCi5+ZJfw==
+"@acmekit/cache-redis@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/cache-redis/-/cache-redis-2.13.8.tgz#2e53a9c782ef92018863e2556d65e80ec54eff48"
+  integrity sha512-dXvHHMfpdQHX51G1Z745Nu38ziZIkgWKYSEm1pylOKHNUyu8Yq4/VPYcjCeYTOyR1ry9kgG3VvcOovfJ+KBgWg==
   dependencies:
     ioredis "^5.4.1"
 
-"@acmekit/caching-redis@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/caching-redis/-/caching-redis-2.13.6.tgz#4395ae68793601ddcfd8f90220bf42fb02a308ee"
-  integrity sha512-P+NnubWh8Lb6xN4buuvPcMFJZk+Xg3TYHDwBXm46HbY1N9s5ihnTYr6T7NuCBzAaHA6tMHMl6qDhnyNi5hWdQA==
+"@acmekit/caching-redis@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/caching-redis/-/caching-redis-2.13.8.tgz#230c67cca4141283a8bd9c506900a7d698459cc6"
+  integrity sha512-c8rzSh/s6AJD9+WWwMypeyj7Eu+OhpVvObXPgKlG8zxR/Bwvmp9zw1a44DlJ/Gu7+9QCmh+XVid9SVkHux8zEg==
   dependencies:
     ioredis "^5.4.1"
     xxhash-wasm "^1.1.0"
 
-"@acmekit/caching@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/caching/-/caching-2.13.6.tgz#30dc9d9ccdef0482423b08c45e8eef9c78ff3a43"
-  integrity sha512-iK5M7WtVckem6h9JHk5KrwU6c+xRtXpSGpd4GUoxbUl93LNntZn0fPr31o+u5i/4PMWj+Dgxrr8oqTUKC2gbHA==
+"@acmekit/caching@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/caching/-/caching-2.13.8.tgz#6f7c9b3035285aca9e2763def4d06b3eebc8bc97"
+  integrity sha512-xrWSeenUJQWLBM2+k+hITaXW/q4wfhZ1BpAWldpsTL8mlgAfIGlLRKmPW848E8o5epTNDfZBHAT9dtzaE2FVUg==
   dependencies:
     fast-json-stable-stringify "^2.1.0"
     node-cache "^5.1.2"
@@ -199,14 +199,14 @@
   resolved "https://registry.yarnpkg.com/@acmekit/cart/-/cart-2.13.2.tgz#2232e08090bbc4dfc2af6aae69673694c857c4cf"
   integrity sha512-nwhDHt88wozhu6gtPDCO/b1RTuTIBrjw/YtHiwjsp+CMpahn+sVf2brcvik/5/HHSMAWLOVoP8M/zvL+A0CGQQ==
 
-"@acmekit/cli@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/cli/-/cli-2.13.6.tgz#266343c0c572c01864304a65f6d5d8f4c376c30b"
-  integrity sha512-+Xns3bBXZbDE7i95WIB+yt07xOJ+nYtzyBvqdUU2vhPicTAB/8nVndB2Q/g88xFlfFyyvTyj+RlI6f4gt/CGyw==
+"@acmekit/cli@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/cli/-/cli-2.13.8.tgz#6f3ca2e87aaa66a06ee670ab75005d26acd8ee4a"
+  integrity sha512-mNY5GgvEAsfG09pd1Aj+tPlAW+f3M2hRiFdn1vrBe5LeO1OK+ixoOaTn4uIEsnUSt+LJC5BShnEGcv+YUDsevQ==
   dependencies:
-    "@acmekit/deps" "2.13.6"
-    "@acmekit/telemetry" "2.13.6"
-    "@acmekit/utils" "2.13.6"
+    "@acmekit/deps" "2.13.8"
+    "@acmekit/telemetry" "2.13.8"
+    "@acmekit/utils" "2.13.8"
     "@types/express" "^4.17.21"
     chalk "^4.1.2"
     configstore "^5.0.1"
@@ -229,10 +229,10 @@
     winston "^3.9.0"
     yargs "^17.7.2"
 
-"@acmekit/core-flows@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/core-flows/-/core-flows-2.13.6.tgz#95e9b1f5ba44803b053a4d085d2549afc2606882"
-  integrity sha512-TOcq+aggyMuX/FdIBGwlUHdeiy3359lcI6/4Ov4uyrHTqFcPAVeTtVOfphYGdG1TSFY594gL0nQYeidmtkPM7A==
+"@acmekit/core-flows@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/core-flows/-/core-flows-2.13.8.tgz#7088835532c7b01203c73e95c1f2eded1d47ada9"
+  integrity sha512-nb87kHL/aKbpnzcpZCOJ5Z6J4FznY9X1b2Hc0ZSXBVjZN2x0Kab405m5j6oM/VMf7GFeHR2GLfKS9l7OvTQNWw==
   dependencies:
     csv-parse "^5.6.0"
     json-2-csv "^5.5.4"
@@ -242,20 +242,20 @@
   resolved "https://registry.yarnpkg.com/@acmekit/currency/-/currency-2.13.2.tgz#240398a302c38df30e647d4ed9477d8055fa0643"
   integrity sha512-niKPve2tkyIh8K3sQ0nPWcsSr4FnKD/zmJIos8BHrL9OrYt4iNTtIebf1edcpQxR95JoFO3UdOsEUfdNCzmwFA==
 
-"@acmekit/customer@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/customer/-/customer-2.13.6.tgz#701641bb78f81c30d5f6c5a442e609be952c9a97"
-  integrity sha512-qXZ/5yBXg1jp6Ta+tiuuF4MfREIQHRjRT/XCFuUw7XTqSaQL9AIhrzVgIuG6ApLttEFYplwpXB4bHsTZ2MQb+w==
+"@acmekit/customer@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/customer/-/customer-2.13.8.tgz#12b15ddbff00fddbde23d243841161f3a4f05bb5"
+  integrity sha512-ZZzzNY9F7XteBJM5lMpCfTILbaN3gvLEvK6j6Ucb/Tuu5kKNKi+9wTGpCU2BXT8MCidYORKTXF8M1Psa+Ijvng==
 
-"@acmekit/dashboard@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/dashboard/-/dashboard-2.13.6.tgz#c06ab813abb70213a66002559395440443ba33ac"
-  integrity sha512-gqTswTogSDMcerj5HEhYYZ4DK3+PgPfTZQ4ML/xP4y3Dc7Fv6EFCMZdwB6h/w1TE5z0DoIZZqYf6EwJSfOnfwQ==
+"@acmekit/dashboard@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/dashboard/-/dashboard-2.13.8.tgz#71df7a8e83c72b2f64f57cc3ff7433f53c67931a"
+  integrity sha512-AJqtC/0Au3H1jgQTNkMiR1jxE+1fZ4OSwS0wr6IjhU78Un7KU1zksGWYdAKFndILH8eyeQ5cGmttrL4EFRd1/Q==
   dependencies:
-    "@acmekit/admin-shared" "2.13.6"
-    "@acmekit/icons" "2.13.6"
-    "@acmekit/js-sdk" "2.13.6"
-    "@acmekit/ui" "4.1.6"
+    "@acmekit/admin-shared" "2.13.8"
+    "@acmekit/icons" "2.13.8"
+    "@acmekit/js-sdk" "2.13.8"
+    "@acmekit/ui" "4.1.8"
     "@ariakit/react" "^0.4.15"
     "@babel/runtime" "^7.26.10"
     "@dnd-kit/core" "^6.1.0"
@@ -292,10 +292,10 @@
     react-router-dom "6.30.3"
     zod "3.25.76"
 
-"@acmekit/deps@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/deps/-/deps-2.13.6.tgz#3e62037d7733cfc9db9121b5c01ecc3582d9a548"
-  integrity sha512-LrPgHU1c/GN/5g9hp1f07ZpUdor3CF3HOtHNjntJkgIfKPlftrNrEF283ZsPXiPDWtQRBsDYVQgY+U0RMjKzTQ==
+"@acmekit/deps@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/deps/-/deps-2.13.8.tgz#c8152a7a8ceb83e58383a12bac1329080d916765"
+  integrity sha512-XX0ISUdp0GzH3Cn653In6azHeAd00KZW1I13VqJSBrWa7qCb40D0O6qKzzzn/typlIxsvMdD1M8JEyFZPFCXkw==
   dependencies:
     "@mikro-orm/cli" "6.4.16"
     "@mikro-orm/core" "6.4.16"
@@ -311,51 +311,51 @@
     pg "^8.16.3"
     zod "3.25.76"
 
-"@acmekit/event-bus-local@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/event-bus-local/-/event-bus-local-2.13.6.tgz#c3219f3a9cc084bb3afb804d28a7bff8142af1da"
-  integrity sha512-FYblq6gEOI1pYkkg10WMU3EMhANQ05ZJN2xYh5sWHtIjZyovcN4YRxxAfqjDsVHcxd3gJbguopQxa2m6L2/0QQ==
+"@acmekit/event-bus-local@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/event-bus-local/-/event-bus-local-2.13.8.tgz#a878e2467bf28935af6faa7c3e094506c5babe44"
+  integrity sha512-ItpUZEx68heC4HRfyLgfTmqQgHN0oje8zIQ1y7LFUTjeIStt5yJHWN5auIKhZI/Edv1JCFxIdIs8zwAtDQ4phQ==
 
-"@acmekit/event-bus-redis@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/event-bus-redis/-/event-bus-redis-2.13.6.tgz#a0558647b5382639609ec058f928c530cf4fac44"
-  integrity sha512-nkW8y+WG3aImpoVnuvmxo6RCaOOysv6bMelL5JWN44cgty42uMCDzO8+jTTUVQybSSdctVMrXrtVdUP21HdZig==
+"@acmekit/event-bus-redis@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/event-bus-redis/-/event-bus-redis-2.13.8.tgz#b2793f73ac2a6e89c7cb86fb85a0e636b35f2b41"
+  integrity sha512-aO9+sPd96Hm3JJjIG9IAWSQgaTQUDREighYADChAvPHp06Pkdb7MLuj/RPcMecxlPNVc+2fBnAHWaT4T7CgCWQ==
   dependencies:
     bullmq "5.13.0"
     ioredis "^5.4.1"
 
-"@acmekit/file-local@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/file-local/-/file-local-2.13.6.tgz#58e18254cdede7f0c2b018687c03f816ef9096b5"
-  integrity sha512-maxbGezQVwDAQ2GK80g89vmrXXK3LVsdJjZpJEcUTasPAU0jDfsPrAQSIrvs/Jt4LiDvWx6OlWCEIB+FREhlHQ==
+"@acmekit/file-local@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/file-local/-/file-local-2.13.8.tgz#7528d9770fb530a3febe49890663d8b933756ea7"
+  integrity sha512-q3RCRLeUwlmhG+NAg4Y9UgmAgyERgH7VdH0w8hci1GTYpbMEBre4w3nSTb8C4xQEaGV8zyrFbWxdmHgrKLwbOA==
 
-"@acmekit/file-s3@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/file-s3/-/file-s3-2.13.6.tgz#2c1318ee5250d9be7234cdbde6faf0cba72316e1"
-  integrity sha512-mQYMAIpF06A/8++vUQdgf3xdik5Drua7k/eomIp2ROyHdYVv+Ukd8Z3Sih5EBioHJRp+CrZBgqAJn1uI0LWDIQ==
+"@acmekit/file-s3@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/file-s3/-/file-s3-2.13.8.tgz#2c450812a4412eed6f81fb80b4bb9bdd966733a4"
+  integrity sha512-WoFXOvGUuzRRVx31FDjRLnQjCVhNp6ZEM2WCAa5FaFtUlDoMdMO1FTD6M0WiBDvxYa61dA0W2gaEQBwy+uv56w==
   dependencies:
     "@aws-sdk/client-s3" "^3.556.0"
     "@aws-sdk/lib-storage" "^3.556.0"
     "@aws-sdk/s3-request-presigner" "^3.556.0"
     ulid "^2.3.0"
 
-"@acmekit/file@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/file/-/file-2.13.6.tgz#1d4bfe341fd87bc98a8af83eaabf7725875fe98e"
-  integrity sha512-/wjxr4Vuc2+GC5QQKlFQy5s20I9x11hDuMjj/fQFg4IHL4NJLLEtVoEx2OCGZa2UV00oZ3nes+IxLNEHyzZDRA==
+"@acmekit/file@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/file/-/file-2.13.8.tgz#6f42690f2f9f7f7189913e381285452684a06287"
+  integrity sha512-fDLUfnwNpW6etxSbCD3UHs6TW6WZ7YCmC6x4glT84wjazgedzOUbFaeKELJPEKEEG0M8ZBapMQ5jlNWd8Fj8lA==
 
-"@acmekit/framework@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/framework/-/framework-2.13.6.tgz#d5eb17be8f8156c5a90ec9c64dc1fa767dcf6da2"
-  integrity sha512-ghkgLImw+LNg9h7n2CNnc8GKcp3mGWZ3tJxsE7YaRsUG1HWoADJHembJJmHPHllK5HyyJyrd9otrdiBiOZzeAg==
+"@acmekit/framework@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/framework/-/framework-2.13.8.tgz#96d53cbd8a416785323c6806e394b74feb98be8a"
+  integrity sha512-Ef2W6++AJrpHZT62ATxaw88Y6YoBtocs65k6uSYm4uGDurHJ/k/190O2O4n63Zq+PLPHULAkgZ5MIseGE00wBw==
   dependencies:
-    "@acmekit/deps" "2.13.6"
-    "@acmekit/modules-sdk" "2.13.6"
-    "@acmekit/orchestration" "2.13.6"
-    "@acmekit/telemetry" "2.13.6"
-    "@acmekit/types" "2.13.6"
-    "@acmekit/utils" "2.13.6"
-    "@acmekit/workflows-sdk" "2.13.6"
+    "@acmekit/deps" "2.13.8"
+    "@acmekit/modules-sdk" "2.13.8"
+    "@acmekit/orchestration" "2.13.8"
+    "@acmekit/telemetry" "2.13.8"
+    "@acmekit/types" "2.13.8"
+    "@acmekit/utils" "2.13.8"
+    "@acmekit/workflows-sdk" "2.13.8"
     "@jercle/yargonaut" "^1.1.5"
     "@types/express" "^4.17.21"
     chokidar "^4.0.3"
@@ -388,84 +388,84 @@
   resolved "https://registry.yarnpkg.com/@acmekit/icons/-/icons-2.13.2.tgz#da97d5cb9573f086656d2194417a1433613905eb"
   integrity sha512-1nQysIHV6Wcf8gX19QnI6/+IUmcwCj87Cbi0jhBw+KlkVKhRdg9p2An6Rwo+SEC6xobA6ZnTTSpBA4K+7CxQBA==
 
-"@acmekit/icons@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/icons/-/icons-2.13.6.tgz#5f9e1c6ce4d567dc1e7d61a9b944b57c75d99510"
-  integrity sha512-SMsw2FlipjZ8o5scDRzShjr4DA0dAmcGHl5/q0NmZ/DtcDAES45RIA5qzzpJ+9jonvQPZ7f+pr/uLw1LFgpn/g==
+"@acmekit/icons@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/icons/-/icons-2.13.8.tgz#4c68ef4eb22bae4f59cded5ada60cfc9537af6d6"
+  integrity sha512-7ftDZ7NsQnP+8D1xzK7mgnI8LZZXAxUg6+MYZ/jD63pnK3Jjw56ntCrV2CBFyEb2VDxs5XpjleoktAyiB3Ib1Q==
 
-"@acmekit/index@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/index/-/index-2.13.6.tgz#bf865bf251d6ee5437eebb4b541846e3d7499bb3"
-  integrity sha512-KSG1gs1D9TPhrU9DSOti/NpttHcy9F3K07n78j3TqkLb6kechueqtUTROB1EBmgt28eaZP2aEHpFYM6xsBsZGA==
+"@acmekit/index@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/index/-/index-2.13.8.tgz#8ca8853fb834050f6fe9a5296f7232b53636b132"
+  integrity sha512-jh52VAcN+LS7j7QPSDaAdUQLGhlB0upq6wUyfJ6RPJHHtpyw5a0FGgfGDVnAaRU8K1aAr9ymL5V3tWPu/Fbyhg==
 
 "@acmekit/inventory@2.13.2":
   version "2.13.2"
   resolved "https://registry.yarnpkg.com/@acmekit/inventory/-/inventory-2.13.2.tgz#b8e50f4cfdd60674fb7e9b45acd749e2e6541309"
   integrity sha512-RWEJ9hYnUPCNIGEcmap2SPRNy48JBCfIjMVUqZRds0RPaKk3fZAjo0mCbgWhnI6cAMdZ9/CQdZWeiFwpbC59tg==
 
-"@acmekit/js-sdk@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/js-sdk/-/js-sdk-2.13.6.tgz#34ab445ce2322166e771cd7490d110fbcc33dc55"
-  integrity sha512-bdJ9B3rhFlm6QkoySXgRlKq1Wo4sA3mpKznyMcVKIFZTKW3p95h0h5DtE0rAvn8/LFuSmyQqWTjPw9Qrm7yw9A==
+"@acmekit/js-sdk@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/js-sdk/-/js-sdk-2.13.8.tgz#19b79aa275b4177ead72b43f51fb5a924bdfdd18"
+  integrity sha512-TPIDE9v7xa9Cru81iqnWCepe9glGAJurBlGGhWYo94dx/ZR3T/F4uLZvEHIjN0ZIG8RZ92aETNR4bxri/ONxtw==
   dependencies:
     fetch-event-stream "^0.1.5"
     qs "^6.12.1"
 
-"@acmekit/link-modules@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/link-modules/-/link-modules-2.13.6.tgz#a227c18ece567afa059fb0b5d8a4f374168f6c6e"
-  integrity sha512-XL8IRb5y/k/cmHb+n+M2xjeZetCvNUZam4FqB+98t0XP6yWHh/WqND2/2rq9XTQzIpuc10pXvpaHMSjHNswclw==
+"@acmekit/link-modules@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/link-modules/-/link-modules-2.13.8.tgz#77c8d1ef75f254a4d673e502e7f229ee144ac092"
+  integrity sha512-fZlkXcDNSYIpxjfODRIE1Pi8beRagT0FQgKZj0be7INIR1/v3cR/HdwrN3b4pjvQMiOqB32Ar3SU4JlT5G+3IQ==
 
-"@acmekit/locking-postgres@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/locking-postgres/-/locking-postgres-2.13.6.tgz#16425e30ea392fb290c269949f0b1a206472e4ef"
-  integrity sha512-+q5g4QP04h3iap3tpa12LdOzT+a3z6SLt3ybmQKPCJ5uu+BbUqH+dE/YqP+KEK3pavOZ/IyXQUSA7OX9QfCUEg==
+"@acmekit/locking-postgres@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/locking-postgres/-/locking-postgres-2.13.8.tgz#0391bdc78ac2251e1eefb5f92f32b55fd19fec8a"
+  integrity sha512-oEP/DZUAuBiAOHaxCFpO0Q0DdN7NMydUBbD+M+WmyDOpnzpi5C7wK4fFtl6do0svamroUr2kLGNjVnAVHAO61A==
 
-"@acmekit/locking-redis@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/locking-redis/-/locking-redis-2.13.6.tgz#e5772c125d88f9437f3f905a2101a09fb5972f34"
-  integrity sha512-djX/WxoFZcFzBDQvn+aGrl+lftn4/rCbXvOTzqmXUfIFUSF4lk02XbGOm2X02ZZ1jiMr1WobZ1D1N85QoSC70w==
+"@acmekit/locking-redis@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/locking-redis/-/locking-redis-2.13.8.tgz#a443358f2ba4e7b8e7b77a00ee150b7237de8101"
+  integrity sha512-3Naazgqb8Aj3328LmsYl9cPoc2nqC3c2+GtbXh3bbR5t9RHglXt8Jn8Ws0nOsuI+XXfCE/yrCauTP4VmPH+Fgg==
   dependencies:
     ioredis "^5.4.1"
 
-"@acmekit/locking@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/locking/-/locking-2.13.6.tgz#8ad956c80f38a13d7d5af91499e7a78d0e4fd66f"
-  integrity sha512-T7ihs21C4kosvjBq1AsEJ0WOB/U272Bz9XgCPewGGn6F5K5xK+27iCuHg0JZ/hVdI46O+K0Uqr0zNybsqdnRPg==
+"@acmekit/locking@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/locking/-/locking-2.13.8.tgz#1fbe9430f7d9456a60362db6c51fef03fd5c847e"
+  integrity sha512-FM0mXnO6P9OMjpfPuAxNVDu9vyyFu/XVTRLEKrDNXnu3BWUqA7f5fZpd9vuL9gW6hFX63MjlTX1CIYgdQ49fmw==
 
-"@acmekit/modules-sdk@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/modules-sdk/-/modules-sdk-2.13.6.tgz#6ef88fb9912bf5d42839cf108e14517c0ed6bf49"
-  integrity sha512-TzWrF4Po/GWFKoQsAYvBCtTjd/11huCUF0343yA2oVIe5UDHRPhxXSXYwgIe2uruhO4EYsYH/pfLqJ6Xekscpw==
+"@acmekit/modules-sdk@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/modules-sdk/-/modules-sdk-2.13.8.tgz#72c2d0966ee21e3e945b8314c791ec8b874ef8b6"
+  integrity sha512-LxY9Yvyr4f/l7NldG3pYV76xMOCTo9FvDABb5NngN0zl4IBEn7wHaECB46WM4XKzQULOMAkYXdgr8vegRYhF7g==
   dependencies:
-    "@acmekit/deps" "2.13.6"
-    "@acmekit/orchestration" "2.13.6"
-    "@acmekit/utils" "2.13.6"
+    "@acmekit/deps" "2.13.8"
+    "@acmekit/orchestration" "2.13.8"
+    "@acmekit/utils" "2.13.8"
 
-"@acmekit/notification-local@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/notification-local/-/notification-local-2.13.6.tgz#a56f51520854c35aecbb6032b726dde8fceef032"
-  integrity sha512-Ukf/UtdfHHWGX/SltgG7wuhONnPWwWo18rTPywQazE4XnwtxSVN9/2JTNvQ0T2rgdR0m9DnKWh18fAFGDbqeJQ==
+"@acmekit/notification-local@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/notification-local/-/notification-local-2.13.8.tgz#2fe8d1d2adb8693ed311e2316e95b5f4467922d3"
+  integrity sha512-nXS2oEt6OyxnpSBFsY0hkUuiX/J/WmjDTrMMzDlLQCgnu1lguWvGszI2JwUCY2kbEZuYCP0WpwoUFzHXkcMBNA==
 
-"@acmekit/notification-sendgrid@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/notification-sendgrid/-/notification-sendgrid-2.13.6.tgz#344ecf162adba1701beec254e64821284c4a0893"
-  integrity sha512-Kr0bfqNG5pV61UTS080YLaYMd+GvTU+8qxE9f3QJU/iRaZcfVX8WuiFa3AW8oB0FYapaMkSw9GnnFH5osoWFgQ==
+"@acmekit/notification-sendgrid@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/notification-sendgrid/-/notification-sendgrid-2.13.8.tgz#da8b2da1b5afe9a96aaaf2883f082c185f2047ec"
+  integrity sha512-MnLmD2wEeBs+85Rcv6A90VbEIVXpt5bzlpiVUZBEn0PjZ3+N5WVotayEwcp0Ph6CYhitjzdSSa01UMRp+3npaA==
   dependencies:
     "@sendgrid/mail" "^8.1.6"
 
-"@acmekit/notification@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/notification/-/notification-2.13.6.tgz#440c903509c7c41b89a693e5e889e87b89e10393"
-  integrity sha512-Ml0FQDaF3zutPZoIP9puxhoiXQSz24UzALk9K3Vt4AkavlfMuzW6sSdLBWvkjuCropuFZCGItu/cg/7E1SepgQ==
+"@acmekit/notification@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/notification/-/notification-2.13.8.tgz#ee44d6c6005cafed0386e031aee1fbefc5dff896"
+  integrity sha512-He91B7HoreptQfwEpWq/HJgk10Z0e5NLpu++AoPu2QstJ7l1DRlmHsFYip1yznlQngVcJYH6wkFJQzyEH5LTsw==
 
-"@acmekit/orchestration@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/orchestration/-/orchestration-2.13.6.tgz#fdb484938a3feea2da32aa69a1529a8b379d6483"
-  integrity sha512-EqxT8xrLgD0tnchFq34jvrTcBh8fbfrEyyFBSVaTqwf6MtzbWDHeDtacvAi4sQwE41E0RQGKHJ4ybbOByNRcEQ==
+"@acmekit/orchestration@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/orchestration/-/orchestration-2.13.8.tgz#0ff3755d4548524a6da0236934c9f8d3fcb8a2a0"
+  integrity sha512-KL93OgrfKHMzKQZtMZgU5bbwWASXcUs7kbA0ZvUQelworCh7/hteamYlaNbPbjL4c2FW49VDj/a5PY29G5ArXg==
   dependencies:
-    "@acmekit/deps" "2.13.6"
-    "@acmekit/utils" "2.13.6"
+    "@acmekit/deps" "2.13.8"
+    "@acmekit/utils" "2.13.8"
     ulid "^2.3.0"
 
 "@acmekit/order@2.13.2":
@@ -502,10 +502,10 @@
   resolved "https://registry.yarnpkg.com/@acmekit/promotion/-/promotion-2.13.2.tgz#ab26d819ac3f44508d8997f14c92e9a5c75baa80"
   integrity sha512-q1PG7JqiuiUEUHtJs8gagtlKehjBdzGQIDo6K+eJ/IKuipM51wCp2mqiGkl9iIyD1bG/9vql0NUiCZY/vydlPg==
 
-"@acmekit/rbac@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/rbac/-/rbac-2.13.6.tgz#fae63c59e97ef81f0792cd8a8f1d98c2dc989003"
-  integrity sha512-nzGSZBtnWmVGvfQe2aEXxZwwf7P4VOwu1EeK8tbnibXYnnppGABnDdKnSfaZCVuZpSoCxZMTsJXnj63hDXsAzQ==
+"@acmekit/rbac@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/rbac/-/rbac-2.13.8.tgz#2c13357fe1bbc83df7a5e878a5d61292399b6d65"
+  integrity sha512-dtYJ+3Tu6YzaGKubEdt2fxseJUezK8i0OK5XWgS84ZPv61ynD7DjUugimdu8QB1kVUQOmIu9r+WDRFC0+dKaYw==
 
 "@acmekit/region@2.13.2":
   version "2.13.2"
@@ -517,30 +517,30 @@
   resolved "https://registry.yarnpkg.com/@acmekit/sales-channel/-/sales-channel-2.13.2.tgz#0908e142f92c5f62ada865ab4db11560d44aacf9"
   integrity sha512-lTjwCAHLDJ4UhZh24Z+x+b3meILyQvYSXchJa1fW7qjF6WlIFUzO9ykJTziBJ4OZZCN+0JuJiuGE0EKF1CkpJw==
 
-"@acmekit/settings@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/settings/-/settings-2.13.6.tgz#017395c9c413ab33884dbc83d0392d40dd24eaf3"
-  integrity sha512-wgRNitvoVnk7kogpCYKVd/cjynUxrsmyECXWug2Yqk6Zm3+2ZkcPqwZH8iUMPnR8ZCit60cCCnrglFyflkvomA==
+"@acmekit/settings@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/settings/-/settings-2.13.8.tgz#d2302501bc9352483c4d32e2cafb125612741260"
+  integrity sha512-mLIXPcQZXUWEo0wSW93YJfahrqD2h3zZ6F/u8ZUmNHmLtbZYAAlVknYgM55XXEEr+MwYy/9T1S1Qgdwcbuws/A==
 
 "@acmekit/stock-location@2.13.2":
   version "2.13.2"
   resolved "https://registry.yarnpkg.com/@acmekit/stock-location/-/stock-location-2.13.2.tgz#6ea0d487c653e97c708f4316e719a9e043b0ab43"
   integrity sha512-XRvLqGckyomJkEqoVhaXrQ9WldtDYShgKjkEivHL3kPGncOmK0yulMoqDW+BOmrRbYSl4SNdNTt6WIpgZN5/tA==
 
-"@acmekit/store@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/store/-/store-2.13.6.tgz#866cf13b5beb10549550ae11d3ab488d736d5720"
-  integrity sha512-uSsPURrrd0NV74myQwPhdexlEVxy0Uv3HErM7LlxzaftpDyUALchNE1pp7x/FSJ8FePeYGcA9Fr9n9FjSGFy/w==
+"@acmekit/store@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/store/-/store-2.13.8.tgz#4b30a46db39c98bef7fb96f2aa17137d5cf06c37"
+  integrity sha512-ZZn22ZN8rQaqmbt1Q8tBjw5p34gzAjBT//Nv3fKs7B9Ks/FvcVZP+4s8yv0vQVdHir+tPI74205/sv5dEn2DKA==
 
 "@acmekit/tax@2.13.2":
   version "2.13.2"
   resolved "https://registry.yarnpkg.com/@acmekit/tax/-/tax-2.13.2.tgz#16a6f0d9924374432a47480843ad4981e7a2669c"
   integrity sha512-5FaeC425tFzMikS1VOfpMwOBnIdK182SIofL7QIht0/UyZtdG+D6hbQ2y1LeehVakL3S9FWiZzWN/bcb6ihb+w==
 
-"@acmekit/telemetry@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/telemetry/-/telemetry-2.13.6.tgz#3647ac27bc6595739b6ef2526db019fd544c7117"
-  integrity sha512-tZNeGJAqiXLZisRiyXrWcgZociRQfF4mCsSKH64eA1lOyBkcaTX0VYIQncaxiDa4FzuHRQIHKnJjqhIjfymUbA==
+"@acmekit/telemetry@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/telemetry/-/telemetry-2.13.8.tgz#e4f65ddf85b888bb1e5b3e8e65b12c994bfedecd"
+  integrity sha512-wObbJIIq/J2UUpHzXdLGWyFm/rAdn9qbONzWoOHEzAbJmgqvWrHH3ry8/+kpcWBmBf1NA4Crcjw5KRc3s8VKHg==
   dependencies:
     "@babel/runtime" "^7.26.10"
     axios "^1.13.1"
@@ -552,10 +552,10 @@
     remove-trailing-slash "^0.1.1"
     uuid "^9.0.0"
 
-"@acmekit/test-utils@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/test-utils/-/test-utils-2.13.6.tgz#5ddb2935776fb6d3d055314b9603f0274118e7e2"
-  integrity sha512-il776MhHzLDrNzH+X+mbgGsoRJ8ZO9KYfMQ76/Lh62blCu/5t2aO6RDIOU4tautdG449v0JPESToaSTcYIjzKw==
+"@acmekit/test-utils@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/test-utils/-/test-utils-2.13.8.tgz#2a679b4d76daf747ed416c48c9daa12b0a7bb9ff"
+  integrity sha512-4g+eiv8mmXuj9EVJvq6vNr5ILR68LKXI8vSQ/lRIpCIF5TRrC3+l5qC7pzJILwtkQRNUkvDDptj91xspps4gyg==
   dependencies:
     "@types/express" "^4.17.21"
     axios "^1.13.1"
@@ -563,15 +563,15 @@
     get-port "^5.1.1"
     ulid "^2.3.0"
 
-"@acmekit/translation@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/translation/-/translation-2.13.6.tgz#38ab639a59b6845f421a7af5d270e232e0fd769d"
-  integrity sha512-FL2cvk6IgMpPqs0QiQ1998IDLGsPzX32NBgwpzksX7VuNVOeuaCX35Jh1gaK0HFBvAGCRpZbjTAe/EakgUSOYQ==
+"@acmekit/translation@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/translation/-/translation-2.13.8.tgz#2d74abdec02c89886c47cb4cd8e48c94bad6027f"
+  integrity sha512-+QJh6pw3gXFFG+jnuTvzBGVp0GF8iMx8DnZ3L14xDviXsmtxJKbUrSCJ+0G3v8zwVuE9Wgq86JdoytQpIUvw+A==
 
-"@acmekit/types@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/types/-/types-2.13.6.tgz#9b92a0c46f068510d718f0ebc0874b83e5d4b109"
-  integrity sha512-RCaPKICgXhbPkY6V5AzjjjABxJgUshRJ2hxwlXrER+CaQSlSVMhbzykDuu0Mm8doDZvOHSbcRNyU8hG2NVj9bg==
+"@acmekit/types@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/types/-/types-2.13.8.tgz#bff4375aa1b1775bea1ba45566d4c452995cc65e"
+  integrity sha512-hoSDOFpgvFfybcqPENYijDF/41OJzmpPZySTBiy5o+oqLwOk3Jc1hBZeHf/VDxiyZ3wujTiA5oIyvYp7qpL9JA==
   dependencies:
     bignumber.js "^9.1.2"
 
@@ -599,12 +599,12 @@
     sonner "^1.5.0"
     tailwind-merge "^2.2.1"
 
-"@acmekit/ui@4.1.6":
-  version "4.1.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/ui/-/ui-4.1.6.tgz#985fc586b436bb4669db5177d9e80b4a838867e8"
-  integrity sha512-aOxuutgMW8FAPwtrBf+hEnlUyyGpEYUEQC464Atp1CE2e1cwUtTH2s1QrfBkCRMS3yGy4uchsZwbsV6l0zUO8w==
+"@acmekit/ui@4.1.8":
+  version "4.1.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/ui/-/ui-4.1.8.tgz#d2300d3520c8f4f2f30959a8e31c5795eca57e6c"
+  integrity sha512-6a0IsP4TPxF3ax4NPQB1AJOFCkzE/RLG8RELOyWVYg0njXfFUn5W4TsqJhjSDSBPLpMzNZ+cXfHM3PoVQ7pXdg==
   dependencies:
-    "@acmekit/icons" "2.13.6"
+    "@acmekit/icons" "2.13.8"
     "@dnd-kit/core" "^6.1.0"
     "@dnd-kit/sortable" "^8.0.0"
     "@dnd-kit/utilities" "^3.2.2"
@@ -623,19 +623,19 @@
     sonner "^1.5.0"
     tailwind-merge "^2.2.1"
 
-"@acmekit/user@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/user/-/user-2.13.6.tgz#bb073dab62a5a2ad8835a79f91b0f49fb6c355b9"
-  integrity sha512-0s79+PUU+bUCVwDBmNvAeBBScbKzv4qxXFS2mSCBdFVfHI33GkM+4XJ6D/pvaJpn5ULznCaacw8x0T/Lyw9bcg==
+"@acmekit/user@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/user/-/user-2.13.8.tgz#b903192145478998dcfaf1935d64add09c2616c4"
+  integrity sha512-v3YK52D5iYVemVfrnBMy5nYj9bHZwpVY9F77CAWgenXgE2Q9+cCcr624qO29YHqruRjl1Y/qvo86iBzrV+dRkA==
   dependencies:
     jsonwebtoken "^9.0.2"
 
-"@acmekit/utils@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/utils/-/utils-2.13.6.tgz#3f0caf5d9ff23f3fdca4559cc50a1c92ca75fcfe"
-  integrity sha512-QqqiMHE1ndsupVoyTHHEbUY51hb/G3s4bKc+qotaIucHJyvdHJOgyTMwXbnjt5tBI750inSbY9Ss6c1+7J9zFQ==
+"@acmekit/utils@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/utils/-/utils-2.13.8.tgz#d98bb8f537a5f49ea448c740ed4af78241084f28"
+  integrity sha512-3xTrhntBXlsexNAQCcTEpr0E84ORuPySE1Ui/54aus0t+aHAovbQxoayJHqj6S/e4ID1OJtrzy0PY6mlvqSBvQ==
   dependencies:
-    "@acmekit/deps" "2.13.6"
+    "@acmekit/deps" "2.13.8"
     "@graphql-codegen/core" "^4.0.2"
     "@graphql-codegen/typescript" "^4.0.9"
     "@graphql-tools/merge" "^9.0.7"
@@ -650,32 +650,32 @@
     pluralize "^8.0.0"
     ulid "^2.3.0"
 
-"@acmekit/workflow-engine-inmemory@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/workflow-engine-inmemory/-/workflow-engine-inmemory-2.13.6.tgz#42cbf0b29afffbd607b9caa443a289d40554c6c0"
-  integrity sha512-qYZ/xq0dwdtdF/FDsH35gLzZrJywSJCIY0aWyqm+S9OCyvIDH/VR+8I87PVTiRXDMJjKY5yq9IEDnYNYNnNWgQ==
+"@acmekit/workflow-engine-inmemory@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/workflow-engine-inmemory/-/workflow-engine-inmemory-2.13.8.tgz#e432f95acb168f2da131f8d7895ef9a305848890"
+  integrity sha512-aI8jQrYsFoMXG/mwCoE4wKk3kszDMrT9FTZwatqipHaHIKFEPPRnvS5sMDN9sTaGwUbQNy5JB6+ppEwDLhuBlw==
   dependencies:
     cron-parser "^4.9.0"
     ulid "^2.3.0"
 
-"@acmekit/workflow-engine-redis@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/workflow-engine-redis/-/workflow-engine-redis-2.13.6.tgz#87b29da7d389b6e5327c41d6a3f2bffc9cdfacae"
-  integrity sha512-C1hUgfBgxnFBcRuZVMIflghi+/WVMfjSKZhq4BO990z74NaC2LVmJ8zSwcSoUbWrlDEZIhV0ilRJHV5kQi54lA==
+"@acmekit/workflow-engine-redis@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/workflow-engine-redis/-/workflow-engine-redis-2.13.8.tgz#1b38a716b152169f234871a366a840cc516c0e9f"
+  integrity sha512-zXFt00XtFNmG+NMCHbqqtJhzS5CUu5Kg6l7gqHfvxAJ7lsfHLNbEGYtgRhGe+6ac6Q56eq2G1S7hrU/mnXianQ==
   dependencies:
     bullmq "5.13.0"
     ioredis "^5.4.1"
     ulid "^2.3.0"
 
-"@acmekit/workflows-sdk@2.13.6":
-  version "2.13.6"
-  resolved "https://registry.yarnpkg.com/@acmekit/workflows-sdk/-/workflows-sdk-2.13.6.tgz#3b9ce1bb58b4d19e43f740edff861a3fa3f62d6f"
-  integrity sha512-LexvxEqCQ0dOAPtfIfzNz+84rW6JsLTlRSUd4eufV2eIDkXcW1cBzag8v08B8DbNTcrmPXyVYDt0TCzCX5zqkQ==
+"@acmekit/workflows-sdk@2.13.8":
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@acmekit/workflows-sdk/-/workflows-sdk-2.13.8.tgz#b9f020bdbfc492bb4889ee98e935085a288013f9"
+  integrity sha512-NsUdom+fIyf3O+Q2MvyJG+ZOrOny0ZOv4LWgKlpq+VkwBMNw1zDOh4Vy/aCiGCPUA7jblClHzGv9kmRoqI8EEA==
   dependencies:
-    "@acmekit/deps" "2.13.6"
-    "@acmekit/modules-sdk" "2.13.6"
-    "@acmekit/orchestration" "2.13.6"
-    "@acmekit/utils" "2.13.6"
+    "@acmekit/deps" "2.13.8"
+    "@acmekit/modules-sdk" "2.13.8"
+    "@acmekit/orchestration" "2.13.8"
+    "@acmekit/utils" "2.13.8"
     ulid "^2.3.0"
 
 "@alloc/quick-lru@^5.2.0":
